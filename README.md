@@ -10,12 +10,12 @@ a. Cài Python (nếu chưa có)
 
 Nên dùng Python 3.10 hoặc 3.11 (ổn định nhất cho thư viện).
 
-Cài từ python.org
+Cài từ [python.org](https://www.python.org/downloads/)
  → nhớ tick Add to PATH khi cài.
 
 b. Cài Tesseract OCR
 
-Tải tại đây: UB Mannheim Tesseract
+Tải tại đây: [UB Mannheim Tesseract](https://github.com/UB-Mannheim/tesseract/wiki)
  (phiên bản ổn định cho Windows).
 
 Cài đặt, mặc định sẽ nằm ở:
