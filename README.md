@@ -2,8 +2,9 @@
     <a href="https://dainam.edu.vn/vi/khoa-cong-nghe-thong-tin">
     🎓 Faculty of Information Technology (DaiNam University)
     </a>
+    ![z6917654370462_2817f81f026235364ef69cc6d6056fcc](https://github.com/user-attachments/assets/2468521f-38b0-4b43-a4b4-cd75490dfb1d)
 </h2>
-![z6917654370462_2817f81f026235364ef69cc6d6056fcc](https://github.com/user-attachments/assets/2468521f-38b0-4b43-a4b4-cd75490dfb1d)
+
 
 # Hệ thống Tự động nhập liêu hóa đơn chứng từ, quét qr
 
