@@ -1,0 +1,18 @@
+@startuml
+title OCR Workflow for Invoices
+
+start
+:Upload Invoice Image;
+:Preprocess Image (grayscale, threshold, deskew);
+:Run OCR Engine (Tesseract);
+
+if (OCR Successful?) then (Yes)
+    :Display Extracted Text;
+    :Allow User to Edit / Correct Data;
+    :Save / Download Processed Data (Excel/Word);
+else (No)
+    :Show Error Message;
+endif
+
+stop
+@enduml
